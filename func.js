@@ -1,7 +1,7 @@
-function double(num)
+function tripple(num)
 {
-return x *2;
+return x *3;
 }
 
 var x = 2;
-double(x);
+tripple(x);
